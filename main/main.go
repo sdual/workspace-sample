@@ -1,6 +1,6 @@
 package main
 
-import "example.com/hello"
+import "github.com/sdual/workspace-sample/hello"
 
 func main() {
 	hello.Hello("Yuuki")
